@@ -1,0 +1,27 @@
+{
+  "name": "FO3S Oman",
+  "url": "http://fo3s.org/",
+  "location": {
+    "city": "Muscat",
+    "country": "OM",
+    "lat": 23.59157,
+    "lon": 58.16857,
+    "address": {
+      "Name": "Sultan Qaboos University",
+      "Street": "Language Center, Second floor, Room 2010"
+    }
+  },
+  "contact": {
+    "email": "fo3s@squ.edu.om",
+    "phone": "+9682414 3696",
+    "facebook": "https://www.facebook.com/fo3s.squ",
+    "twitter": "@FO3S",
+    "googleplus": "https://plus.google.com/u/0/b/111226601889783264726/+Fo3sOrg/posts"
+  },
+  "metacommunity": "FOSSC Oman",
+  "state": {
+    "logo": "https://drive.google.com/open?id=0BwqQbzMyJy5kU1ZoMjQxN0ZpV0k&authuser=0",
+    "lastchange": "2015-03-29T04:20:09.663Z"
+  },
+  "api": "1.0.1"
+}
